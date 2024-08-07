@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ![Foxleigh and Foxleigh Logo](public/foxleigh-and-foxleigh-logo-square-small.png)
+
+## Foxleigh and Foxleigh Website
+
+
+Foxleigh & Foxleigh Digital Consultancy: Delivering innovative digital solutions with over 35 years of combined experience in the public and private sectors. JOSCAR and Cyber Essentials certified for excellence and security.
+
+This is our website, built with [Next.js](https://nextjs.org/), [Storybook](https://storybook.js.org/) and [Typescript](https://www.typescriptlang.org/).
 
 ## Getting Started
 
