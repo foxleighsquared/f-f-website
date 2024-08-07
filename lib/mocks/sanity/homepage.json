@@ -1,189 +1,130 @@
 {
-  "_rev": "33d703fb-b02e-4af3-a948-3508f5c3ec4d",
+  "_id": "1",
   "_type": "homepage",
-  "heroImage": {
-    "name": "Row of Arches",
-    "id": "wxcqwn3mv3w5jffvx55g63xf",
-    "url": "https://cdn.bfldr.com/IJXUD54I/as/tr73f9f8kj5jspxqkqg88trq/Row_of_Arches?auto=webp&format=png"
-  },
-  "_updatedAt": "2024-07-29T17:25:44Z",
-  "content": [
-    {
-      "ctaUrl": "https://www.bbc.co.uk",
-      "ctaText": "Read more",
-      "dark": true,
-      "ctaColour": "white",
-      "_type": "imageRow",
-      "_key": "4d7ec3e17fe4",
-      "content": "Discover the diverse range of business that call one of our spaces their home.",
-      "title": "Our community of customers",
-      "image": {
-        "alt_text": "Sama Bankside Internal | Southwark",
-        "id": "bthmrpgj5rkm99vnsbbqw89",
-        "url": "https://cdn.bfldr.com/IJXUD54I/as/hqc4g9srtb4p2x2w37hqg5x/Sama_Bankside_Internal__Southwark?auto=webp&format=png"
-      },
-      "overlayText": false
-    },
-    {
-      "content": "Over 3000 business owners have chosen one of our spaces to thrive.",
-      "title": "Why choose us?",
-      "swapSides": false,
-      "_type": "horizontalContentCard",
-      "ctaType": "link",
-      "_key": "9de32f7d44ce",
-      "image": {
-        "url": "https://cdn.bfldr.com/IJXUD54I/as/2z78p974276j6bkngf5m8w86/Union_Street__Southwark?auto=webp&format=png",
-        "alt_text": "Union Street | Southwark",
-        "id": "6p94fkhrtm88656j36kg5px"
-      },
-      "linkUrl": "https://www.bbc.co.uk",
-      "linkText": "Read more"
-    },
-    {
-      "image": {
-        "alt_text": "Camden Town Brewery | Camden",
-        "id": "5jq84m83hrkh298bxbskpqkp",
-        "url": "https://cdn.bfldr.com/IJXUD54I/as/w3bgbwjnts9rmzjfpmp3c96g/Camden_Town_Brewery__Camden?auto=webp&format=png"
-      },
-      "linkUrl": "https://www.bbc.co.uk",
-      "ctaType": "button",
-      "swapSides": true,
-      "title": "Support for existing customers",
-      "content": "Already got a space with us? Get access to information about managing your space and who to contact if you've got questions.",
-      "_type": "horizontalContentCard",
-      "linkText": "Read More",
-      "_key": "f6761ef61f12a1a25e7236f21e2b310c"
-    },
-    {
-      "image": {
-        "alt_text": "Forest, External | Deptford",
-        "id": "4vpbx3pk33n98j43hc3x689",
-        "url": "https://cdn.bfldr.com/IJXUD54I/as/rfqn3mjgbrwkcg67hqcsbx/Forest_External__Deptford?auto=webp&format=png"
-      },
-      "_type": "imageRow",
-      "dark": false,
-      "_key": "ae609034b19faa4574bd19ce30f4cb95",
-      "ctaColour": "navy",
-      "ctaText": "Read more",
-      "title": "Our community of customers",
-      "content": "Discover the diverse range of business that call one of our spaces their home.",
-      "ctaUrl": "https://www.bbc.co.uk",
-      "overlayText": false
-    }
-  ],
+  "_createdAt": "2024-08-07T12:00:00Z",
+  "_updatedAt": "2024-08-07T12:00:00Z",
+  "_rev": "1",
   "metadata": {
-    "_type": "metadata",
-    "title": "Making space for businesses to thrive"
+    "description": "Foxleigh & Foxleigh Digital Consultancy: Delivering innovative digital solutions with over 35 years of combined experience in the public and private sectors. JOSCAR and Cyber Essentials certified for excellence and security.",
+    "keywords": [
+      "digital consultancy",
+      "public sector",
+      "private sector",
+      "JOSCAR",
+      "Cyber Essentials"
+    ],
+    "author": "Foxleigh & Foxleigh"
   },
-  "_createdAt": "2024-06-27T13:50:32Z",
-  "textSection": [
-    {
-      "style": "h3",
-      "_key": "682223582860",
-      "markDefs": [],
-      "children": [
-        {
-          "_type": "span",
-          "marks": [
-            "strong"
-          ],
-          "text": "We understand it is crucial to find the right property for your business",
-          "_key": "fe7633b20f6a0"
-        }
-      ],
-      "_type": "block"
-    },
-    {
-      "markDefs": [],
-      "children": [
-        {
-          "_type": "span",
-          "marks": [],
-          "text": "That is why we offer properties in great locations, good value rents, flexible terms and a supportive service across London and the UK.",
-          "_key": "63448b7b56af0"
-        }
-      ],
-      "_type": "block",
-      "style": "normal",
-      "_key": "6396917b5052"
-    },
-    {
-      "markDefs": [],
-      "children": [
-        {
-          "_type": "span",
-          "marks": [],
-          "text": "Most of our properties are in towns and cities, close to major transport hubs and potential customers.",
-          "_key": "d310dba998980"
-        }
-      ],
-      "_type": "block",
-      "style": "normal",
-      "_key": "acf8fee71925"
-    },
-    {
-      "_key": "9cbf4902289d",
-      "markDefs": [],
-      "children": [
-        {
-          "_type": "span",
-          "marks": [],
-          "text": "Our spaces range in size from 100 to 100,000 square feet, making them suitable for a range of businesses. And they are affordable too - most of our spaces cost between £15,000 and £50,000 a year to rent.",
-          "_key": "8081391d5f100"
-        }
-      ],
-      "_type": "block",
-      "style": "normal"
-    }
-  ],
-  "_id": "homepage",
+  "title": "Welcome to Foxleigh & Foxleigh",
+  "pageIntroText": "Where innovation meets expertise to propel your digital landscape forward. Harness the power of over 35 years of combined experience with a JOSCAR and Cyber Essentials certified consultancy that understands the ins and outs of both public and private sectors. Ready to elevate your project? Connect with us today!",
+  "heroImage": {
+    "url": "/lib/mocks/mock-image-1.png",
+    "altText": "Foxleigh & Foxleigh Hero Image"
+  },
+  "videoUrl": "/lib/mocks/video.mp4",
   "contentCards": {
+    "_key": "contentCards1",
+    "_type": "threeCardSection",
     "cards": [
       {
-        "title": "How renting with us works",
-        "content": "New to renting? Our lettings process guide can help.",
-        "image": {
-          "id": "886xkjr9wqzmnk5g8k8zvr",
-          "url": "https://cdn.bfldr.com/IJXUD54I/as/h5w64v689wtn6kb4kjv4t6q/Sama_Bankside_Internal_2___Southwark?auto=webp&format=png",
-          "alt_text": "Sama Bankside Internal 2  | Southwark"
-        },
-        "_type": "contentCard",
-        "linkUrl": "https://bbc.co.uk",
-        "linkText": "Read the guide",
-        "_key": "c4f71bc1158c59279b3ba8ddffe02787"
+        "title": "Public Sector Digital Excellence",
+        "description": "Specializing in scalable digital solutions tailored for government agencies. Our hands-on experience with the UK Government, the Royal Navy, and the NHS equips us to handle complex challenges with ease.",
+        "ctaText": "Discover Our Government Solutions",
+        "ctaUrl": "https://example.com/government-solutions"
       },
       {
-        "ctaType": "link",
-        "_type": "contentCard",
-        "linkUrl": "https://www.bbc.co.uk",
-        "linkText": "Browse featured locations",
-        "_key": "21ffbe123916",
-        "title": "Featured locations",
-        "content": "Find your new business space in one of our featured locations.",
-        "image": {
-          "url": "https://cdn.bfldr.com/IJXUD54I/as/b98mtnnqcsjhgww29c8c399/Japanese_Canteen__Tower_Hamlets?auto=webp&format=png",
-          "alt_text": "Japanese Canteen | Tower Hamlets",
-          "id": "pckvcgnnrcjt4wnh394hsmz"
-        }
+        "title": "Private Sector Innovations",
+        "description": "From strategy to implementation, we drive digital transformation in the private sector. Our work with brands like Unilever and Accenture showcases our capability to enhance your digital presence and operations.",
+        "ctaText": "Explore Private Sector Services",
+        "ctaUrl": "https://example.com/private-sector-services"
       },
       {
-        "content": "We offer spaces suitable for industrial, warehousing, storage, retail, leisure, food and beverage and much more. ",
-        "image": {
-          "alt_text": "Sama Bankside External",
-          "id": "332fcb2vtznq8p7q5fg37pwh",
-          "url": "https://cdn.bfldr.com/IJXUD54I/as/9rq6mwj9tjgbphs52s2p/Sama_Bankside_External?auto=webp&format=png"
-        },
-        "ctaType": "link",
-        "_type": "contentCard",
-        "linkUrl": "https://bbc.co.uk",
-        "linkText": "Discover our spaces",
-        "_key": "73d640a7b9f811ebf06766ff893fb047",
-        "title": "Find a space"
+        "title": "Comprehensive Security and Compliance",
+        "description": "Security at the forefront: As JOSCAR certified consultants, we ensure your digital projects meet stringent security standards, keeping your data safe and compliant.",
+        "ctaText": "Learn About Our Security Practices",
+        "ctaUrl": "https://example.com/security-practices"
       }
-    ],
-    "_type": "threeCardSection"
+    ]
   },
-  "title": "Making space for businesses to thrive",
-  "pageIntroText": "We have more commercial space for small and medium-sized businesses to rent than anyone else in Britain",
-  "_originalId": "drafts.homepage"
+  "textSection": [
+    {
+      "_type": "block",
+      "_key": "block1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span1",
+          "text": "At Foxleigh & Foxleigh, we blend technical proficiency with creative thinking to deliver exceptional digital experiences. Our approach not only solves immediate needs but also anticipates future challenges. Let's build something remarkable together.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "content": [
+    {
+      "_key": "content1",
+      "_type": "plainText",
+      "text": "Our expertise spans across multiple industries and sectors, ensuring tailored solutions that meet your specific needs."
+    },
+    {
+      "_key": "content2",
+      "_type": "richText",
+      "richText": [
+        {
+          "_type": "block",
+          "_key": "block2",
+          "style": "h2",
+          "children": [
+            {
+              "_type": "span",
+              "_key": "span2",
+              "text": "Why Choose Foxleigh & Foxleigh?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "block3",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "_key": "span3",
+              "text": "We provide cutting-edge digital consultancy services that drive success and foster innovation.",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "content3",
+      "_type": "twoColumnRichTextAndImage",
+      "leftColumn": {
+        "_type": "richText",
+        "richText": [
+          {
+            "_type": "block",
+            "_key": "block4",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "span4",
+                "text": "Our team is composed of experts with extensive experience in both the public and private sectors.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      "rightColumn": {
+        "_type": "image",
+        "url": "/lib/mocks/mock-image-2.png",
+        "altText": "Our Team"
+      }
+    }
+  ]
 }

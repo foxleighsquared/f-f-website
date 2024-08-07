@@ -16,7 +16,7 @@ import type InputProps from 'components/factories/input-factory/types/input-prop
 import type InputTypes from 'components/factories/input-factory/types/input-types';
 import type { Props as FieldsetProps } from 'components/forms/fieldset';
 
-import { handleErrors } from 'lib/helpers';
+import { handleErrors } from 'lib/helpers/handle-errors';
 
 export interface FieldSetData extends FieldsetProps {
   /**

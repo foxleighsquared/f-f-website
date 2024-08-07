@@ -5,8 +5,8 @@ import { within, expect } from '@storybook/test';
 import { Hero } from './index';
 
 const mockImage = {
-  url: '/mocks/images/property-8.jpg',
-  alt_text: 'A beautiful image of a property'
+  src: '/mocks/images/mock-image-8.jpg',
+  alt_text: 'A beautiful image of a thing'
 };
 
 const mockImageWithSizes = {

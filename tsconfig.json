@@ -28,6 +28,10 @@
       ]
     }
   },
+  "types": [
+    "node",
+    "jest"
+  ],
   "include": [
     "markdown.d.ts",
     "css.d.ts",

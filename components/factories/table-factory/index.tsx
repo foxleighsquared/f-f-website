@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import { Table } from 'components/data-display/table';
 import { InputFactory } from 'components/factories/input-factory';
 
-import { changeCase } from 'lib/helpers';
+import { changeCase } from 'lib/helpers/change-case';
 
 import { sortTable } from './helpers/sort-table';
 import { filterTable } from './helpers/filter-table';

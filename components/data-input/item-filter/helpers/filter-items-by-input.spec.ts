@@ -1,4 +1,4 @@
-/* global it expect */
+import { expect, it } from '@jest/globals';
 import { ChangeEvent } from 'react';
 import filterItemsByInput from './filter-items-by-input';
 
