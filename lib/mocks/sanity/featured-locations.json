@@ -1,0 +1,490 @@
+[
+  {
+    "keystoneSearchTerm": "brixton",
+    "_rev": "snWCgoc2z6PguVqVIbWuec",
+    "showInNav": true,
+    "slug": {
+      "current": "brixton",
+      "_type": "slug"
+    },
+    "_originalId": "3ba70f03-7ec0-4bc0-8c64-a54d4c608d32",
+    "cardData": {
+      "description": "Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim.\nVoluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et\nculpa duis. ",
+      "thumbnailImage": {
+        "alt_text": "Japanese Canteen | Tower Hamlets",
+        "id": "pckvcgnnrcjt4wnh394hsmz",
+        "url": "https://cdn.bfldr.com/IJXUD54I/as/b98mtnnqcsjhgww29c8c399/Japanese_Canteen__Tower_Hamlets?auto=webp&format=png"
+      }
+    },
+    "contactUsCTATitle": "Units available to rent",
+    "content": [
+      {
+        "_type": "horizontalContentCard",
+        "linkUrl": "https://www.bbc.co.uk",
+        "linkText": "Read more about the development",
+        "_key": "05078f9a1104",
+        "title": "America Street development",
+        "content": "Work started earlier this year to redevelop four railway arches in Southwark. ",
+        "image": {
+          "alt_text": "Camden Town Brewery | Camden",
+          "id": "5jq84m83hrkh298bxbskpqkp",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/w3bgbwjnts9rmzjfpmp3c96g/Camden_Town_Brewery__Camden?auto=webp&format=png"
+        },
+        "ctaType": "button"
+      },
+      {
+        "ctaType": "button",
+        "_type": "horizontalContentCard",
+        "content": "Work started earlier this year to redevelop four railway arches in Southwark. ",
+        "_key": "282def3ac059bc4aa200c815608bec54",
+        "swapSides": true,
+        "linkText": "Read more about the development",
+        "title": "America Street development",
+        "image": {
+          "alt_text": "Sama Bankside Internal | Southwark",
+          "id": "bthmrpgj5rkm99vnsbbqw89",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/hqc4g9srtb4p2x2w37hqg5x/Sama_Bankside_Internal__Southwark?auto=webp&format=png"
+        },
+        "linkUrl": "https://www.bbc.co.uk"
+      },
+      {
+        "ctaText": "Read more",
+        "dark": true,
+        "_type": "imageRow",
+        "overlayText": true,
+        "title": "EV",
+        "content": "Anatolian Turkish restaurant Ev call Southwark their home. Read more about what makes Southwark the perfect place for their restaurant to thrive.",
+        "ctaUrl": "https://www.bbc.co.uk",
+        "image": {
+          "id": "h6qt9zxfxfrhvp6v87hgpk",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/k8h45nnn2chzm9vxx2rxmf8/Forest_Internal__Deptford?auto=webp&format=png",
+          "alt_text": "Forest, Internal | Deptford"
+        },
+        "buttonColour": "teal",
+        "_key": "acffa2e1d90c"
+      }
+    ],
+    "featuredProperties": [
+      {
+        "description": "What a luvverly arch!",
+        "propertyThumbnailAltText": "Alt text for image",
+        "_key": "0f039fc61f18",
+        "propertyThumbnail": "https://picsum.photos/200/300",
+        "propertyUrl": "https://www.bbc.co.uk",
+        "address": "123 Fake Street",
+        "_type": "featuredProperty"
+      },
+      {
+        "description": "What a luvverly arch!",
+        "propertyThumbnailAltText": "Alt text for image",
+        "_key": "05b68524ade0bb06df43fb43ca5757f6",
+        "propertyThumbnail": "https://picsum.photos/200/300",
+        "propertyUrl": "https://www.bbc.co.uk",
+        "address": "123 Fake Street",
+        "_type": "featuredProperty"
+      }
+    ],
+    "name": "Brixton",
+    "_updatedAt": "2024-07-29T14:48:39Z",
+    "contentCards": [
+      {
+        "linkUrl": "https://www.bbc.co.uk",
+        "linkText": "Read more",
+        "_key": "567f36c51b68",
+        "isFeatured": false,
+        "title": "Renting in Brixton",
+        "image": {
+          "alt_text": "Sama Bankside Internal 2  | Southwark",
+          "id": "886xkjr9wqzmnk5g8k8zvr",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/h5w64v689wtn6kb4kjv4t6q/Sama_Bankside_Internal_2___Southwark?auto=webp&format=png"
+        },
+        "ctaType": "link",
+        "_type": "contentCard"
+      },
+      {
+        "linkUrl": "https://www.bbc.co.uk",
+        "linkText": "Read more",
+        "_key": "0ea96816b09d4eb75e19669fc9c8bc92",
+        "content": "Rent this vibrant bar space now! The refurbished arches connect shops on Southwark Road to Southwark Village traders.",
+        "_type": "contentCard",
+        "isFeatured": false,
+        "title": "Spice up your live in Brixton",
+        "image": {
+          "alt_text": "Sama Bankside External",
+          "id": "332fcb2vtznq8p7q5fg37pwh",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/9rq6mwj9tjgbphs52s2p/Sama_Bankside_External?auto=webp&format=png"
+        },
+        "ctaType": "link"
+      },
+      {
+        "_key": "c303e6a8196e",
+        "isFeatured": true,
+        "title": "Discounts for small business customers",
+        "content": "Up to 100 small business customers can now get discounted membership to FSB, the UK's voice for small businesses",
+        "ctaType": "button",
+        "_type": "contentCard",
+        "linkUrl": "http://www.bbc.co.uk",
+        "linkText": "Apply now"
+      },
+      {
+        "linkUrl": "http://www.bbc.co.uk",
+        "ctaType": "link",
+        "image": {
+          "alt_text": "Row of Arches",
+          "id": "wxcqwn3mv3w5jffvx55g63xf",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/tr73f9f8kj5jspxqkqg88trq/Row_of_Arches?auto=webp&format=png"
+        },
+        "title": "So much to do...",
+        "content": "Southwark Arches has been home to independent shops, cafes and restaurants for over 150 years.",
+        "_key": "13b8532df51cc17941b8fdde92dd056d",
+        "_type": "contentCard",
+        "linkText": "Read more",
+        "isFeatured": false
+      }
+    ],
+    "locationImage": {
+      "alt_text": "Sama Bankside Internal 2  | Southwark",
+      "id": "886xkjr9wqzmnk5g8k8zvr",
+      "url": "https://cdn.bfldr.com/IJXUD54I/as/h5w64v689wtn6kb4kjv4t6q/Sama_Bankside_Internal_2___Southwark?auto=webp&format=png"
+    },
+    "_createdAt": "2024-07-23T12:05:10Z",
+    "radius": 10,
+    "textArea": {
+      "_type": "richText",
+      "richText": [
+        {
+          "_key": "e52deff5963d",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [
+                "strong"
+              ],
+              "text": "We have a range of affordable spaces to rent in Southwark that can be used flexibly for a variety of activities or needs. Our spaces are:",
+              "_key": "bac3d48555d10"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "style": "normal",
+          "_key": "d42e3b8fb2ff",
+          "listItem": "bullet",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "Conveniently located near main transport links, with easy access to central London",
+              "_key": "d585d73c4ea40",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "level": 1,
+          "_type": "block"
+        },
+        {
+          "style": "normal",
+          "_key": "d4f4fa0baa01",
+          "listItem": "bullet",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Either new or recently refurbished",
+              "_key": "7798fc49c6fc",
+              "_type": "span"
+            }
+          ],
+          "level": 1,
+          "_type": "block"
+        },
+        {
+          "style": "normal",
+          "_key": "3f5b01ce0f0b",
+          "listItem": "bullet",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "cf1ec5583811",
+              "_type": "span",
+              "marks": [],
+              "text": "Suitable for many different business types, including industrial businesses, cafes, creative studios, storage and other light industrial uses"
+            }
+          ],
+          "level": 1,
+          "_type": "block"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Can be used flexibly for a variety of activities or needs",
+              "_key": "348583ead582"
+            }
+          ],
+          "level": 1,
+          "_type": "block",
+          "style": "normal",
+          "_key": "1f3fa5b249a7",
+          "listItem": "bullet"
+        }
+      ]
+    },
+    "contactUsCTADescription": "Take a look at what we have available below and enquire today if you think one of the spaces may be perfect for your business.",
+    "composableContentHeading": "Heading title goes here",
+    "_type": "featuredLocations",
+    "contentCardHeading": "Live, work, thrive in Brixton",
+    "_id": "3ba70f03-7ec0-4bc0-8c64-a54d4c608d32"
+  },
+  {
+    "contactUsCTATitle": "Units available to rent",
+    "content": [
+      {
+        "content": "Work started earlier this year to redevelop four railway arches in Southwark",
+        "image": {
+          "alt_text": "Sama Bankside External",
+          "id": "332fcb2vtznq8p7q5fg37pwh",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/9rq6mwj9tjgbphs52s2p/Sama_Bankside_External?auto=webp&format=png"
+        },
+        "ctaType": "button",
+        "_type": "horizontalContentCard",
+        "linkUrl": "https://www.bbc.co.uk",
+        "linkText": "Read more about the development",
+        "_key": "0dc36a700bf2",
+        "title": "America Street development"
+      },
+      {
+        "_type": "horizontalContentCard",
+        "linkUrl": "https://www.bbc.co.uk",
+        "content": "Learn more about have creative architects TDO have made their space their own",
+        "image": {
+          "alt_text": "C.P.HART Showroom | Waterloo",
+          "id": "8r7mvt4vt3jfkwf9nksxkhpg",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/5qs7sx3g8r4rvmzt64g95ts/CPHART_Showroom__Waterloo?auto=webp&format=png"
+        },
+        "ctaType": "button",
+        "linkText": "Read more",
+        "_key": "3379bd5aea50116d64dc6de7d9df5644",
+        "title": "TDO",
+        "swapSides": true
+      },
+      {
+        "ctaText": "Read more",
+        "overlayText": true,
+        "content": "Anatolian Turkish restaurant Ev call Southwark their home. Read more about what makes Southwark the perfect place for their restaurant to thrive.",
+        "ctaUrl": "https://www.bbc.co.uk",
+        "image": {
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/rfqn3mjgbrwkcg67hqcsbx/Forest_External__Deptford?auto=webp&format=png",
+          "alt_text": "Forest, External | Deptford",
+          "id": "4vpbx3pk33n98j43hc3x689"
+        },
+        "buttonColour": "teal",
+        "_key": "97dc76be4685",
+        "title": "Ev",
+        "_type": "imageRow"
+      }
+    ],
+    "textArea": {
+      "_type": "richText",
+      "richText": [
+        {
+          "style": "normal",
+          "_key": "eca455259a74",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "8b227b79b9df",
+              "_type": "span",
+              "marks": [
+                "strong"
+              ],
+              "text": "We have a range of affordable spaces to rent in Southwark that can be used flexibly for a variety of activities or needs. Our spaces are:"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Conveniently located near main transport links, with easy access to central London",
+              "_key": "7b7341aeaba8"
+            }
+          ],
+          "level": 1,
+          "_type": "block",
+          "style": "normal",
+          "_key": "8810cfecacd4",
+          "listItem": "bullet",
+          "markDefs": []
+        },
+        {
+          "_key": "b3afc5593f5e",
+          "listItem": "bullet",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Either new or recently refurbished",
+              "_key": "c70731dbc335"
+            }
+          ],
+          "level": 1,
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "style": "normal",
+          "_key": "29c3703baa9a",
+          "listItem": "bullet",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "Suitable for many different business types, including industrial businesses, cafes, creative studios, storage and other light industrial uses",
+              "_key": "7117dda59ceb",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "level": 1,
+          "_type": "block"
+        },
+        {
+          "style": "normal",
+          "_key": "b7f705e5693f",
+          "listItem": "bullet",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "Can be used flexibly for a variety of activities or needs",
+              "_key": "83e71d55eddc",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "level": 1,
+          "_type": "block"
+        }
+      ]
+    },
+    "contactUsCTADescription": "Take a look at what we have available below and enquire today if you think one of the spaces may be perfect for your business.",
+    "_type": "featuredLocations",
+    "contentCards": [
+      {
+        "_key": "a1dc76b3900c",
+        "title": "Renting in Battersea",
+        "image": {
+          "alt_text": "Sama Bankside Internal | Southwark",
+          "id": "bthmrpgj5rkm99vnsbbqw89",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/hqc4g9srtb4p2x2w37hqg5x/Sama_Bankside_Internal__Southwark?auto=webp&format=png"
+        },
+        "ctaType": "link",
+        "_type": "contentCard",
+        "linkUrl": "https://www.bbc.co.uk",
+        "linkText": "Read more"
+      },
+      {
+        "linkText": "Read more",
+        "_key": "e8ee0a2dba3895663f1ff13e7c30bb5d",
+        "title": "Spice up your life in Battersea",
+        "content": "Rent this vibrant bar space now! The refurbished arches connect shops on Southwark Road to Southwark Village traders.",
+        "image": {
+          "alt_text": "Sama Bankside Internal 2  | Southwark",
+          "id": "886xkjr9wqzmnk5g8k8zvr",
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/h5w64v689wtn6kb4kjv4t6q/Sama_Bankside_Internal_2___Southwark?auto=webp&format=png"
+        },
+        "ctaType": "link",
+        "_type": "contentCard",
+        "linkUrl": "https://www.bbc.co.uk"
+      },
+      {
+        "title": "Discounts for small business customers",
+        "content": "Up to 100 small business customers can now get discounted membership to FSB, the UK's voice for small businesses",
+        "ctaType": "button",
+        "_type": "contentCard",
+        "linkUrl": "https://www.bbc.co.uk",
+        "linkText": "Apply now",
+        "_key": "085eeffc071e",
+        "isFeatured": true
+      },
+      {
+        "linkUrl": "https://www.bbc.co.uk",
+        "image": {
+          "url": "https://cdn.bfldr.com/IJXUD54I/as/b98mtnnqcsjhgww29c8c399/Japanese_Canteen__Tower_Hamlets?auto=webp&format=png",
+          "alt_text": "Japanese Canteen | Tower Hamlets",
+          "id": "pckvcgnnrcjt4wnh394hsmz"
+        },
+        "content": "Southwark Arches has been home to independent shops, cafes and restaurants for over 150 years.",
+        "ctaType": "link",
+        "linkText": "Read more",
+        "_key": "edbe76985af9",
+        "isFeatured": false,
+        "_type": "contentCard",
+        "title": "So much to do..."
+      }
+    ],
+    "contentCardHeading": "Live, worth, thrive in Battersea",
+    "_originalId": "5e705c32-8468-4f51-bfb9-3c8c1333fa3f",
+    "_updatedAt": "2024-07-29T14:49:35Z",
+    "keystoneSearchTerm": "battersea",
+    "composableContentHeading": "Heading goes here",
+    "_rev": "2lTddaMIT7EzxXw8uwigeu",
+    "featuredProperties": [
+      {
+        "propertyThumbnailAltText": "Alt text goes here",
+        "_key": "b78a5a9702ea",
+        "propertyThumbnail": "https://picsum.photos/200/300",
+        "propertyUrl": "https://www.bbc.co.uk",
+        "address": "123 Fake Street",
+        "_type": "featuredProperty",
+        "description": "What a lovely property"
+      },
+      {
+        "_type": "featuredProperty",
+        "description": "What a lovely property",
+        "propertyThumbnailAltText": "Alt text goes here",
+        "_key": "6d1c53f4270121932482add527c7f8c8",
+        "propertyThumbnail": "https://picsum.photos/200/300",
+        "propertyUrl": "https://www.bbc.co.uk",
+        "address": "123 Fake Street"
+      },
+      {
+        "address": "123 Fake Street",
+        "_type": "featuredProperty",
+        "description": "What a lovely property",
+        "propertyThumbnailAltText": "Alt text goes here",
+        "_key": "903ca33335d3d216b7adc705c310e288",
+        "propertyThumbnail": "https://picsum.photos/200/300",
+        "propertyUrl": "https://www.bbc.co.uk"
+      }
+    ],
+    "locationImage": {
+      "alt_text": "Japanese Canteen | Tower Hamlets",
+      "id": "pckvcgnnrcjt4wnh394hsmz",
+      "url": "https://cdn.bfldr.com/IJXUD54I/as/b98mtnnqcsjhgww29c8c399/Japanese_Canteen__Tower_Hamlets?auto=webp&format=png"
+    },
+    "_createdAt": "2024-07-23T11:57:14Z",
+    "cardData": {
+      "description": "Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim\nlabore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi\nanimcupidatat excepteur officia. ",
+      "thumbnailImage": {
+        "id": "9hj44464hgphp9m3nh2tqc",
+        "url": "https://cdn.bfldr.com/IJXUD54I/as/bk2ttzn58wp5nchh5nhrkn/The_Village_Hall__Battersea?auto=webp&format=png",
+        "alt_text": "The Village Hall | Battersea"
+      }
+    },
+    "showInNav": true,
+    "name": "Battersea",
+    "_id": "5e705c32-8468-4f51-bfb9-3c8c1333fa3f",
+    "radius": 10,
+    "slug": {
+      "current": "battersea",
+      "_type": "slug"
+    }
+  }
+]

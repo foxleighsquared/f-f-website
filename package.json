@@ -1,0 +1,123 @@
+{
+  "name": "foxleigh-and-foxleigh",
+  "description": "The website for Foxleigh & Foxleigh",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Alexander (Foxy) Foxleigh",
+    "email": "alex@alexfoxleigh.com",
+    "url": "http://github.com/foxleighsquared"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxleighsquared/f-f-website"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "test": "concurrently yarn:test:*",
+    "test:storybook": "test-storybook --coverage",
+    "test:ts": "tsc",
+    "chromatic": "chromatic --exit-zero-on-changes",
+    "gen": "concurrently yarn:gen:*",
+    "gen:docs": "node ./scripts/generators/docs.mjs",
+    "gen:icons": "node ./scripts/generators/icons.mjs",
+    "gen:favicons": "node ./scripts/generators/favicons.mjs",
+    "gen:scssexports": "node ./scripts/generators/scss-exports.mjs",
+    "watch": "concurrently yarn:watch:*",
+    "watch:docs": "yarn gen:docs --watch",
+    "watch:scssexports": "yarn gen:scssexports --watch",
+    "watch:icons": "yarn gen:icons --watch",
+    "watch:favicons": "yarn gen:favicons --watch",
+    "devkit": "node ./scripts/devkit.js"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@popperjs/core": "^2.11.8",
+    "@portabletext/react": "^3.1.0",
+    "@reduxjs/toolkit": "^2.2.7",
+    "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "next-sanity": "^9.4.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.52.2",
+    "react-popper": "^2.3.0",
+    "react-redux": "^9.1.2"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^1.6.1",
+    "@next/bundle-analyzer": "^14.2.5",
+    "@storybook/addon-a11y": "^8.2.8",
+    "@storybook/addon-coverage": "^1.0.4",
+    "@storybook/addon-essentials": "^8.2.8",
+    "@storybook/addon-interactions": "^8.2.8",
+    "@storybook/addon-links": "^8.2.8",
+    "@storybook/addon-onboarding": "^8.2.8",
+    "@storybook/addon-storysource": "^8.2.8",
+    "@storybook/blocks": "^8.2.8",
+    "@storybook/manager-api": "^8.2.8",
+    "@storybook/nextjs": "^8.2.8",
+    "@storybook/preview-api": "^8.2.8",
+    "@storybook/react": "^8.2.8",
+    "@storybook/test": "^8.2.8",
+    "@storybook/test-runner": "^0.19.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "axe-playwright": "^2.0.1",
+    "blessed": "^0.1.81",
+    "blessed-xterm": "^1.5.0",
+    "camelcase": "^8.0.0",
+    "chalk": "^5.3.0",
+    "chokidar": "^3.6.0",
+    "classnames": "^2.5.1",
+    "concurrently": "^8.2.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-mdx": "^3.1.5",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-storybook": "^0.8.0",
+    "favicons": "^7.2.0",
+    "full-icu": "^1.5.0",
+    "husky": "^9.1.4",
+    "lint-staged": "^15.2.8",
+    "markdown-loader": "^8.0.0",
+    "msw": "^2.3.5",
+    "msw-storybook-addon": "^2.0.3",
+    "prettier": "^3.3.3",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0",
+    "sharp": "^0.33.4",
+    "storybook": "^8.2.8",
+    "stylelint": "^16.8.1",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-sass-guidelines": "^12.0.0",
+    "stylelint-prettier": "^5.0.2",
+    "typescript": "^5",
+    "yup": "^1.4.0"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,md,mdx}": [
+      "prettier --write",
+      "yarn gen",
+      "yarn lint:next"
+    ],
+    "*.{scss,css}": [
+      "prettier --write",
+      "yarn gen:scssexports",
+      "yarn lint:styles"
+    ]
+  },
+  "msw": {
+    "workerDirectory": "public"
+  },
+  "browserslist": [
+    "defaults and fully supports es6-module"
+  ]
+}
