@@ -4,14 +4,15 @@ import { Lato, Ledger } from "next/font/google";
 import classNames from "classnames";
 import config from 'app-config';
 
-export const lato = Lato({
+
+const lato = Lato({
   display: "swap",
   subsets: ["latin"],
   weight: ["400", "700", "900"],
   variable: '--fonr-lato'
 });
 
-export const ledger = Ledger({
+const ledger = Ledger({
   display: "swap",
   subsets: ["latin"],
   weight: "400",

@@ -1,5 +1,6 @@
 import { injectAxe, checkA11y } from 'axe-playwright';
 import type { TestRunnerConfig } from '@storybook/test-runner';
+import { expect } from '@jest/globals';
 
 /*
  * See https://storybook.js.org/docs/7.0/react/writing-tests/test-runner#test-hook-api-experimental
