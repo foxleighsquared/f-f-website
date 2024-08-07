@@ -4,7 +4,8 @@ import classNames from 'classnames';
 /* Import Stylesheet */
 import styles from './styles.module.scss';
 import Image from 'next/image';
-import BrandFolderImage from 'lib/types/brandfolder-image';
+
+import type { Image as ImageType } from 'lib/types/image';
 
 const cx = classNames.bind(styles);
 
@@ -13,7 +14,7 @@ export interface Props extends React.ComponentProps<'div'> {
   /**
    * The image to display as the hero
    */
-  image?: BrandFolderImage;
+  image?: ImageType;
   /**
    * The Video url to display as the hero
    */
@@ -55,14 +56,14 @@ export const Hero: React.FC<Props> = ({
         playsInline
         width={'100%'}
         height={'100%'}
-        poster={image?.url}
+        poster={image?.src}
       >
         <source src={video_url} type="video/mp4" />
       </video>
     ) : (
-      image?.url && (
+      image?.src && (
         <Image
-          src={image.url}
+          src={image.src}
           alt={image.alt_text || 'Hero Image'}
           priority
           fill

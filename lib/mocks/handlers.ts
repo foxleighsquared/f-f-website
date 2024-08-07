@@ -1,4 +1,4 @@
-import { http, HttpResponse, passthrough } from 'msw';
+import { http, HttpResponse } from 'msw';
 
 import homepageData from './sanity/homepage.json';
 
@@ -11,13 +11,9 @@ export const handlers = [
     });
   }),
   http.get(
-    'https://tcnivow2.api.sanity.io/v2023-05-03/data/query/production',
+    `https://${process.env.SANITY_PROJECT_ID}.api.sanity.io/v2023-05-03/data/query/production`,
     async () => {
       return HttpResponse.json({ result: homepageData });
     }
-  ),
-  // Add a pass-through handler for Google Maps API
-  http.get('https://maps.googleapis.com/*', async () => {
-    return passthrough();
-  })
+  )
 ];
